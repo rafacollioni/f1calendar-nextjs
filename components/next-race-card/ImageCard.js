@@ -16,6 +16,7 @@ export const StyledImageCard = styled.div`
 
 	img {
 		height: 25px;
+		width: auto;
 	}
 
 	&:before {
